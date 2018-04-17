@@ -16,3 +16,7 @@ Author Name
 #### Outcomes
 - **Outcome against goal 1**: Describe here. Check off boxes from `Goals` section if necessary
 ...
+
+#### Next Steps
+- Itemize goals for the next shift.
+...
