@@ -5,8 +5,8 @@
 Author Name
 
 #### Goals
-- **Goal 1**: Description of goal, reference issue
-- **Goal 2**: Analagous to above
+- [ ] **Goal 1**: Description of goal, reference issue
+- [ ] **Goal 2**: Analagous to above
 ...
 
 #### Notes
