@@ -6,7 +6,7 @@ Author Name
 
 #### Goals
 - [ ] **Goal 1**: Description of goal, reference issue
-- [ ] **Goal 2**: Analagous to above
+- [x] **Goal 2**: Analagous to above
 ...
 
 #### Notes
@@ -14,5 +14,5 @@ Author Name
 ...
 
 #### Outcomes
-- **Outcome against goal 1**: Describe here
+- **Outcome against goal 1**: Describe here. Check off boxes from `Goals` section if necessary
 ...
