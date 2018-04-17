@@ -2,7 +2,7 @@
 2018.04.17
 
 #### Author 
-<Author Name>
+Author Name
 
 #### Goals
 - **Goal 1**: Description of goal, reference issue
