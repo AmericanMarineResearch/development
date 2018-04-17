@@ -1,12 +1,15 @@
-**Date**: 2018.04.17
-**Author**: <Author Name>
+#### Date 
+2018.04.17
 
-Goals:
+#### Author 
+<Author Name>
+
+#### Goals
 - **Goal 1**: Description of goal, reference issue
 - **Goal 2**: Analagous to above
 
-Notes:
+#### Notes
 - Any additional notes here
 
-Outcomes:
+#### Outcomes
 - **Outcome against goal 1**: Describe here
